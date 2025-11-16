@@ -129,7 +129,7 @@ Before you begin, ensure you have the following installed:
 ### Installation
 
 1. **Clone the repository**
-git clone https://github.com/yourusername/messmate-foodback-hub.git
+git clone https://github.com/nkc1221/MESSMATE.git
 cd messmate-foodback-hub
 
 text
