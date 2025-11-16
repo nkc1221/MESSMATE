@@ -352,9 +352,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+**Nabin Kumar Chaudhary** - [@iamnabin1221](https://linkedin.com/iamnabin1221) - chaudharynabin.tech@gmail.com
 
-**Project Link:** [https://github.com/yourusername/messmate-foodback-hub](https://github.com/yourusername/messmate-foodback-hub)
+**Project Link:** [https://github.com/yourusername/messmate-foodback-hub](https://github.com/nkc1221/MESSMATE)
 
 ---
 
